@@ -1,0 +1,2531 @@
+
+@media(max-width: 1166px){
+     /* pools2 page css open here */
+     .deposits-head > h3{
+        font-size: 28px;
+    }
+    .about-img > img{
+        width: 100%;
+    }
+    .about-bordar{
+        padding: 15px;
+    }
+    #about-section{
+        padding: 80px 0px 80px 0px;
+    }
+    .copyaddress-wrap{
+        justify-content: center;
+        top: -10px;
+    }
+    
+    /* pools2 page css closed here */
+    .fixed-header {
+        position: fixed;
+        width: 400px;
+        height: 500px;
+        top: 8%;
+        right: 6%;
+        transition: 0.5s;
+    }
+   
+    .topweekly-content > h3{
+        font-size: 16px;
+    }
+    .mention {
+        margin-top: 102px! important;
+    }
+    .wrp-autobox1 {
+        padding: 72px 135px 90px 135px; /* changes */
+    }
+    .btn-center1 > a > img{
+        height: 355px;
+    }
+    .btn-center2 > a > img{
+        height: 355px;
+    }
+
+    .menu-list-d > li > a{
+        font-size: 14px;
+        margin-left: 12px;
+    }
+    .point-c-child {
+        padding: 10px 15px;
+    }
+    .top-headerlist > li > a {
+        font-size: 14px;
+        padding: 8px 10px;
+    }
+    .banner-content > p > br{
+        display: none;
+    }
+    
+    .auto-box {
+        width: 190px;
+    }
+    .autocircle-box > img {
+        width: 72px;
+    }
+  
+    .flat-box > img {
+        width: 200px;
+    }
+    .fixed-header {
+        position: fixed;
+        width: 400px;
+        height: 500px;
+        top: 8%;
+        right: 6%;
+        transition: 0.5s;
+    }
+    .product-name > a{
+        font-size: 15px;
+    }
+    p{
+        font-size: 13px;
+    }
+    .border-b{
+        padding: 15px 0px;
+    }
+    .banner-content-wrp{
+        padding-top: 60px;
+    }
+    
+    .tabs6 a{
+        font-size: 15px;
+        margin-right: 10px;
+    }
+    #banner-section{
+        height: auto;
+    }
+    .wrp-social-media {
+        display: flex;
+        justify-content: space-between;
+        padding: 32px 80px;
+        margin-top: 0px;
+    }
+    .metalmorphosis-child1 > h3{
+        font-size: 15px;
+    }
+    .metalmorphosis-img{
+        width: 100%;
+    }
+    .topweekly-content > h3{
+        font-size: 16px;
+    }
+    .mention {
+        margin-top: 102px! important;
+    }
+    .wrp-autobox1 {
+        padding: 72px 135px 90px 135px; /* changes */
+    }
+    .btn-center1 > a > img{
+        height: 355px;
+    }
+    .btn-center2 > a > img{
+        height: 355px;
+    }
+
+    .menu-list-d > li > a{
+        font-size: 14px;
+        margin-right: 8px;
+    }
+    .point-c-child {
+        padding: 10px 15px;
+    }
+    .top-headerlist > li > a {
+        font-size: 14px;
+        padding: 8px 10px;
+    }
+    .banner-content > p > br{
+        display: none;
+    }
+    
+    .auto-box {
+        width: 190px;
+    }
+    .autocircle-box > img {
+        width: 72px;
+    }
+  
+    .flat-box > img {
+        width: 200px;
+    }
+    .about-img{
+        margin-left: 0px;
+    }
+    .main-container {
+        padding: 0px 40px;
+    }
+    .menu-list2{
+        display: block;
+    }
+    .listmenu-desktop{
+        display: none;
+    }
+    .menu-list-d2{
+        display: block! important;
+    }
+    .menu-list-d{
+        display: none;
+    }
+    .burger-area{
+        margin-top: -45px;
+    }
+    .logo-box > a > img {
+        width: 110px;
+    }
+    .rightarow-btn > a >img {
+        padding: 12px 30px;
+    }
+    .bnr-img > img{
+        width: 100%;
+    }
+    .main-container2 {
+        padding: 0px 80px;
+    }
+    .tabs6 a{
+        padding: 15px 14px;
+    }
+}
+
+@media(max-width: 992px){
+    .claim-box{
+        margin-left: 30px;
+        margin-right: 0px;
+    }
+    .wrp-connects{
+        flex-direction: column-reverse;
+    }
+    .main-wrp-claimbox{
+        display: inherit;
+    }
+    .fight-box {
+        text-align: center;
+        margin-top: 30px;
+    }
+    .wrp-epich-list {
+        width: 100%;
+    }
+    .wallet-content > p{
+        line-height: 38px;
+    }
+    .connect-img{
+        text-align: right;
+    }
+    .logo-box{
+        margin-top: 0px;
+    }
+    .ecosystembg{
+        background-size: cover;
+    }
+    .tabs6 a.active{
+        width: 100%;
+    }
+    .bnr-img{
+      top: 0px;   
+      text-align: center;
+    }
+    .wrp-social-media{
+        padding: 32px 40px;
+    }
+    .panel-default>.panel-heading a{
+        background-size: cover;
+    }
+    .roadmap_character-img {
+        display: none;
+    }
+    
+    
+    .bnb-left > p {
+        margin-top: 14px;
+    }
+    .marketplace-bg{
+        background-size: cover;
+        background-position: center;
+    }
+    #banner-section {
+        height: auto;
+    }
+    .marketplace-child1 > h3{
+        font-size: 54px;
+        line-height: inherit;
+    }
+    .wrp-stake-head{
+        display: inherit;
+        text-align: center;
+    }
+    /* my-responsive-open */
+    .ecosystem-heading > h3 {
+        font-size: 50px;
+    }
+    .eco-right {
+        margin-top: 40px;
+    }
+    .eco-l-cont > h3 {
+        font-family: 'eth-black', sans-serif;
+        font-weight: 900;
+        color: #fff;
+        font-size: 40px;
+    }
+    .ecosystembg {
+        padding: 60px 0px;
+    }
+    .gamebg {
+        padding: 120px 0px;
+    }
+    .game-heading > h3 {
+        font-size: 50px;
+    }
+    .game-l-cont > h3 {
+        font-size: 36px;
+    }
+    .game-center {
+        margin-top: 40px;
+    }
+    .game-right {
+        margin-top: 40px;
+    }
+    .marlinpartner-heading > h3 {
+        font-size: 50px;
+    }
+    .marlinpartnerbg {
+        padding: 120px 0px 50px 0px;
+    }
+    .part-logo > a > img {
+        width: 110px;
+    }
+    .marlin-p-img > img {
+        width: 100%;
+        margin-top: 30px;
+    }
+    .marlin-p-img > img {
+        width: 70%;
+    }
+    .marlin-p-img {
+        text-align: center;
+    }
+    /* my-responsive-closed */
+    .menu-list2 > li > a{
+        text-transform: uppercase;
+        margin-top: 9px;
+    }
+    .copyaddress-wrap{
+        display: inline-flex;
+        margin-top: 10px;
+    }
+    .metalmorphosis-body{
+        display: inherit;
+    }
+    .bnr-cont > h1{
+        font-size: 60px;
+    }
+    .bnr-cont{
+        text-align: center;
+    }
+    .bnr-but-wrap {
+        justify-content: center;
+    }
+    .flat-box {
+        margin-top: 40px;
+    }
+    .top-weekly-reponsive{
+        overflow: auto;
+    }
+    .topweekly-list{
+        width: 1000px;
+    }
+    .product-list2{
+        margin-bottom: 30px;
+    }
+    .marketplace-sec2 {
+        padding: 60px 0px 30px 0px;
+    }
+    .file-sec {
+        padding: 80px 0px;
+    }
+    .fixed-header{
+        position: relative;
+        width: 100%;
+        top: 0%;
+        right: 0%;
+        transition: 0.5s;
+        height: 400px;
+    }
+    .wrp-preview{
+        margin-top: 40px;
+    }
+    .preview-img{
+        height: 400px;
+    }
+     /* changes */
+     .btn-center1 > a > img{
+        height: 240px;
+    }
+    .btn-center2 > a > img{
+        height: 240px;
+    }
+    .wrp-autobox1{
+        padding: 50px 38px 78px 50px;
+    }
+    .sec1 {
+        min-height: 100vh;
+    }
+    /* changes */
+    .faq-mobile .faq-singular .faq-question:before {
+        right: -20px;
+        top: 52%;
+        font-size: 24px;
+        font-family: 'Poppins', sans-serif;
+    }
+    .conbutton {
+        background: #21283e;
+        width: 130px;
+        border-color: #ffffff;
+        font-size: 13px;
+        top: 120px;
+        padding: 10px;
+        right: 18px;
+        border-radius: 8px;
+        font-family: 'Poppins', sans-serif;
+        position: absolute;
+    }
+    .mobile-unloackbtn > button{
+        font-size: 13px;
+        top: 6px;
+        padding: 10px;
+        color: #fff;
+        right: 0px;
+        border-radius: 8px;
+        background-image: url(../images/color3.png);
+        width: 160px;
+        height: 75px;
+        line-height: 75px;
+        margin-top: 10px;
+        margin-left: -20px;
+        background-color: transparent;
+    
+    }
+    .bnbmobile-wrp{
+        position: relative;
+    }
+    .bnb-left > h3 {
+        font-family: 'Poppins', sans-serif;
+        font-size: 18px;
+    }
+    .faq-mobile{
+        display: block;
+    }
+    .sqrBx {
+        display: block;
+    }
+    .onlyDesktop{
+        display: none;
+    }
+    .side-bar{
+        display: none;
+    }
+    .serch-box {
+ 
+        justify-content: space-evenly;
+    }
+    .main-bar{
+        width: 100%;
+    }
+    .second-area {
+        padding: 0px 20px;
+        width: 100%;
+    }
+    .panel-default>.panel-heading a{
+        width: 100%;
+        overflow: auto;
+    }
+    .banner-top-sec{
+        top: 0px;
+    }
+    .staked > label{
+        font-size: 20px;
+        vertical-align: bottom;
+    }
+    .ganaba > label{
+        font-size: 20px;
+    }
+    .conbutton {
+        top: 80px;
+    right: 18px;
+ 
+    }
+    .banner-pool {
+        padding: 15px 20px 10px 20px;
+    }
+    .input-s-box{
+        display: flex;
+        width: 166px;
+    }
+    .input-s-box > input{
+        width: 100%;
+    }
+    .token > h3{
+        font-size: 18px;
+    }
+    .input-s-box > span > img {
+        margin-top: 10px;
+    }
+    .tabs{
+        margin-top: 20px;
+    }
+    .logo-a > img {
+        width: 194px;
+        margin-left: 0px;
+        margin-top: 5px;
+    }
+    .wrp-autobox{
+        padding: 60px 50px 95px 50px;
+    }
+ 
+    .auto-content-box > h3 {
+        font-size: 17px;
+    }
+    .wrp-wizgame{
+        padding: 80px 50px 115px 50px;
+        height: auto;
+    }
+    .autocircle-box > img {
+        width: 52px;
+    }
+    .auto-box {
+        width: 130px;
+    }
+    .wrp-roadmap-content {
+        display: inherit;
+    }
+    .wizgame-w {
+        width: 458px;
+        margin: auto;
+        margin-top: 11px;
+    }
+  
+    .flat-box > h3 {
+        font-size: 18px;
+    }
+    .ido-wrp {
+        width: 910px;
+    }
+    .amount-box > p {
+        font-size: 24px;
+    }
+    .main-roadmapbox {
+        padding: 30px 30px;
+        text-align: center;
+    }
+    .roadmapl > img {
+        width: 160px;
+    }
+    #tokenomic-sec {
+        padding: 60px 0px 60px 0px;
+    }
+    .roadmapl {
+        margin-top: 30px;
+    }
+    .dm-list{
+        display: none;
+    }
+    .tokenomic-c{
+        margin-top: 30px;
+    }
+    .roadmap2{
+        margin-top: 30px;
+    }
+    .banner-content{
+        text-align: center;
+    }
+    .mobiletoplist{
+        text-decoration: none;
+        color: #f44906! important;
+        padding: 10px 15px;
+        border-radius: 8px;
+        background-color: #fff;
+    }
+    .banner-content > img {
+        margin-left: 0;
+    }
+    .contract-adr > h3 {
+        font-size: 24px;
+        margin-top: 30px;
+    }
+    #banner-section {
+        padding-bottom: 0px;
+    }
+
+    .pools-head > h3 {
+        padding-top: 10px;
+    }
+    .tokenhead2 > h3 {
+        margin-top: 10px;
+    }
+    .partner-head > h3 {
+        padding-top: 10px;
+    }
+    .head-roadmap > h3{
+        padding-top: 10px;
+    }
+    .responsives{
+        width: 100%;
+        overflow: auto;
+    }
+    .responsives > .wrp-token-box{
+        width: 910px;
+    }
+    h3{
+        font-size: 32px;
+    }
+    .head-faq > h3 {
+        padding-top: 10px;
+    }
+
+   
+    .bnr-img > img {
+        width: 30%;
+    }
+    .top-header-bg{
+        display: none;
+    }
+    .bnr-child-bg1{
+        padding: 120px 80px;
+    }
+    .our-future-wrapbg {
+        padding: 100px 80px;
+    }
+    .our-future-websitebg1{
+        width: 100%;
+    }
+    .arrow-img{
+        padding-left: 0px;
+    }
+    .metalmorphosis-childimg{
+        width: 86%;
+        height: 88%;
+    }
+    .metalmorphosis-childtextbg{
+        padding: 30px 60px;
+    }
+    .header-c1 {
+        display: block;
+    }
+   
+    .toggle-slide-right {
+        display: block;
+    }
+    .header-c2 {
+        display: block;
+    }
+    
+    
+    .menu-list > li {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    .menu-list > li > a {
+        font-size: 12px;
+    }
+    .tokenhead1 > img {
+        width: 70px;
+    }
+    .tokenhead3 > img {
+        width: 70px;
+    }
+    .marketplace-head > h3 {
+        padding-top: 9px;
+    }
+    .dropbtn {
+        padding: 0px 0px;
+        margin-left: 0px;
+        margin-top: 13px;
+    }
+    /*----ARCANE----*/
+    
+    .about-bordar {
+        border: 2px solid #fff;
+        margin-left: 0px;
+    }
+ 
+    
+    .social-list {
+        justify-content: center;
+        margin-top: 15px;
+    }
+
+    .ecosystem-main-wrap {
+        border: 2px solid #fff;
+        margin-top: 80px;
+        padding: 15px;
+    }
+    .banner-contents {
+        margin-top: 80px;
+        text-align: center;
+    }
+    .bnr-btns-wrp{
+        justify-content: center;
+    }
+   
+    #banner-section,#about-section,#our-features-sec,#marketplace-sec-home,#about-section{
+        background-size: cover;
+        background-position: center;
+    }
+    #about-section,#our-features-sec,.bg-stake{
+        padding: 120px 0px;
+    }
+    #marketplace-sec-home{
+        padding: 80px 0px 40px 0px;
+    }
+  
+    .marketplacenfthome{
+        display: inherit;
+        text-align: center;
+    }
+    .marketplacechild2 > a{
+        top: 30px;
+    }
+    .tabs6{
+        display: inherit;
+        text-align: center;
+    }
+    .stake-p{
+        text-align: center;
+    }
+    .stake-p > p > br{
+        display: none;
+    }
+    .tabs3{
+        display: flex;
+        justify-content: center;
+        margin-top: 30px;
+    }
+    #product-tips{
+        padding-bottom: 0px;
+    }
+    .wrp-arp{
+        display: inherit;
+    }
+    .faq-singular{
+        padding: 0 30px 0 0px;
+    }
+    .marketpace-p{
+        text-align: center;
+        margin-top: 30px;
+    }
+    .marketpace-p > p > br{
+        display: none;
+    }
+    .faq-whitepaper{
+        text-align: center;
+    }
+    .faq-wrp{
+        width: 100%;
+    }
+    .our-features-head{
+        text-align: center;
+    }
+    .our-features-head > p{
+        margin-top: 15px;
+    }
+    .about-img{
+        text-align: center;
+    }
+    .about-img > img{
+        width: 300px;
+    }
+    .border-b{
+        padding: 10px 0px;
+    }
+
+    
+    /* pools2 page css open here */
+    .deposits-head > h3 {
+        font-size: 22px;
+    }
+    .your-balance-box{
+        text-align: center;
+    }
+    .pools2-content{
+        text-align: center;
+    }
+    .text-rights{
+        text-align: center;
+        margin-top: 20px;
+    }
+    .archer-img{
+        height: 200px;
+        border-radius: 16px;
+    }
+    .tires-b{
+        border-radius: 16px;
+        margin-bottom: 25px;
+    }
+    .head-tires-b > p{
+        text-align: center;
+    }
+    .knight-box-wrp{
+        margin-top: 20px;
+    }
+    .limit-box{
+        height: 300px;
+        margin-top: 30px;
+    }
+    .head-limit {
+        margin: 30px 0px 0px 0px;
+    }
+    .css-19kzrtu {
+        margin-top: 20px;
+    }
+    .undead-box{
+        margin-bottom: 25px;
+    }
+    .mrt-topun {
+        margin-top: 0px;
+    }
+    .wrp-p-c {
+        margin-top: 5px;
+    }
+    .undead-head-child1 > h3 {
+        font-size: 36px;
+    }
+    .sale-price-box{
+        height: auto;
+    }
+    .main-balance-box {
+        margin-top: 30px;
+    }
+    /* pools page css closed here */
+    .flat-box {
+        margin-top: 40px;
+    }
+    .top-weekly-reponsive{
+        overflow: auto;
+    }
+    .topweekly-list{
+        width: 1000px;
+    }
+    .product-list2{
+        margin-bottom: 30px;
+    }
+    .marketplace-sec2 {
+        padding: 60px 0px 30px 0px;
+    }
+    .file-sec {
+        padding: 80px 0px;
+    }
+    .fixed-header{
+        position: relative;
+        width: 100%;
+        top: 0%;
+        right: 0%;
+        transition: 0.5s;
+        height: 400px;
+    }
+    .wrp-preview{
+        margin-top: 40px;
+    }
+    .preview-img{
+        height: 400px;
+    }
+     /* changes */
+     .btn-center1 > a > img{
+        height: 240px;
+    }
+    .btn-center2 > a > img{
+        height: 240px;
+    }
+    .wrp-autobox1{
+        padding: 50px 38px 78px 50px;
+    }
+    .sec1 {
+        min-height: 100vh;
+    }
+    /* changes */
+    .faq-mobile .faq-singular .faq-question:before {
+        right: -20px;
+        top: 52%;
+        font-size: 24px;
+       
+    }
+    .conbutton {
+        background: #21283e;
+        width: 130px;
+        border-color: #ffffff;
+        font-size: 13px;
+        top: 120px;
+        padding: 10px;
+        right: 18px;
+        border-radius: 8px;
+       
+        position: absolute;
+    }
+    .bnbmobile-wrp{
+        position: relative;
+    }
+    .bnb-left > h3 {
+       
+        font-size: 18px;
+    }
+    .faq-mobile{
+        display: block;
+    }
+    .sqrBx {
+        display: block;
+    }
+    .onlyDesktop{
+        display: none;
+    }
+    .side-bar{
+        display: none;
+    }
+    .serch-box {
+ 
+        justify-content: space-evenly;
+    }
+    .main-bar{
+        width: 100%;
+    }
+    .second-area {
+        padding: 0px 20px;
+        width: 100%;
+    }
+    .panel-default>.panel-heading a{
+        width: 100%;
+        overflow: auto;
+    }
+    .banner-top-sec{
+        top: 0px;
+    }
+    .staked > label{
+        font-size: 20px;
+        vertical-align: bottom;
+    }
+    .ganaba > label{
+        font-size: 20px;
+    }
+    .conbutton {
+        top: 80px;
+    right: 18px;
+ 
+    }
+    .banner-pool {
+        padding: 15px 20px 10px 20px;
+    }
+    .input-s-box{
+        display: flex;
+        width: 166px;
+    }
+    .input-s-box > input{
+        width: 100%;
+    }
+    .token > h3{
+        font-size: 18px;
+    }
+    .input-s-box > span > img {
+        margin-top: 10px;
+    }
+    .tabs{
+        margin-top: 20px;
+    }
+    .logo-a > img {
+        width: 194px;
+        margin-left: 0px;
+        margin-top: 5px;
+    }
+    .wrp-autobox{
+        padding: 60px 50px 95px 50px;
+    }
+ 
+    .auto-content-box > h3 {
+        font-size: 17px;
+    }
+    .wrp-wizgame{
+        padding: 80px 50px 115px 50px;
+        height: auto;
+    }
+    .autocircle-box > img {
+        width: 52px;
+    }
+    .auto-box {
+        width: 130px;
+    }
+    .wrp-roadmap-content {
+        display: inherit;
+    }
+    .wizgame-w {
+        width: 458px;
+        margin: auto;
+        margin-top: 11px;
+    }
+  
+    .flat-box > h3 {
+        font-size: 18px;
+    }
+    .ido-wrp {
+        width: 910px;
+    }
+    .amount-box > p {
+        font-size: 24px;
+    }
+    .main-roadmapbox {
+        padding: 30px 30px;
+        text-align: center;
+    }
+    .roadmapl > img {
+        width: 160px;
+    }
+    #tokenomic-sec {
+        padding: 60px 0px 60px 0px;
+    }
+    .roadmapl {
+        margin-top: 30px;
+    }
+    .dm-list{
+        display: none;
+    }
+    .tokenomic-c{
+        margin-top: 30px;
+    }
+    .roadmap2{
+        margin-top: 30px;
+    }
+    .banner-content{
+        text-align: center;
+    }
+    .mobiletoplist{
+        text-decoration: none;
+        color: #f44906! important;
+        padding: 10px 15px;
+        border-radius: 8px;
+        background-color: #fff;
+    }
+    .banner-content > img {
+        margin-left: 0;
+    }
+    .contract-adr > h3 {
+        font-size: 24px;
+        margin-top: 30px;
+    }
+    #banner-section {
+        padding-bottom: 0px;
+    }
+    .tokenhead2,.head-roadmap,.partner-head,.head-faq,.pools-head,.marketplace-head{
+        width: 480px;
+        background-size: contain;
+    }
+    .pools-head > h3 {
+        padding-top: 10px;
+    }
+    .tokenhead2 > h3 {
+        margin-top: 10px;
+    }
+    .partner-head > h3 {
+        padding-top: 10px;
+    }
+    .head-roadmap > h3{
+        padding-top: 10px;
+    }
+    .responsives{
+        width: 100%;
+        overflow: auto;
+    }
+    .responsives > .wrp-token-box{
+        width: 910px;
+    }
+    h3{
+        font-size: 32px;
+    }
+    .head-faq > h3 {
+        padding-top: 10px;
+    }
+
+    .top-header-bg{
+        display: none;
+    }
+    .header-c1 {
+        display: block;
+    }
+   
+    .toggle-slide-right {
+        display: block;
+    }
+    .header-c2 {
+        display: block;
+    }
+    
+    .menu-list-d{
+        display: none;
+    }
+    .menu-list > li {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    .menu-list > li > a {
+        font-size: 12px;
+    }
+    .tokenhead1 > img {
+        width: 70px;
+    }
+    .tokenhead3 > img {
+        width: 70px;
+    }
+    .marketplace-head > h3 {
+        padding-top: 9px;
+    }
+    .dropbtn {
+        padding: 0px 0px;
+        margin-left: 0px;
+        margin-top: 13px;
+    }
+    .wrp-social-media {
+        
+        margin-top: -80px;
+    }
+    .bnr-img > img {
+        width: 80%;
+    }
+    .social-cotent > p {
+        font-size: 12px;
+        padding-top: 15px;
+    }
+    .about-bordar{
+        text-align: center;
+    }
+    
+}
+
+@media(max-width: 767px){
+    .tabs7{
+        display: inherit;
+    }
+    .claim-box{
+        margin-left: 0px;
+    }
+    .tabs7 a{
+        padding: 10px 15px;
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    #edit-profile{
+        padding: 100px 0px 60px 0px;
+    }
+    .main-tab-box{
+        display: inherit;
+    }
+    .table-responsive > h5{
+        font-size: 15px;
+    }
+    .table > thead > tr > th{
+        font-size: 14px;
+    }
+    .card-heading > h4{
+        font-size: 16px;
+    }
+    .pools2bg{
+        padding: 120px 0px 60px 0px;
+    }
+    .edit-content > h4{
+        font-size: 24px;
+        text-align: center;
+    }
+    .preview-img2 {
+        width: 30vw;
+        height: 30vw;
+    }
+    .tabs5{
+        margin: auto;
+    }
+    .user-input-wrp > label {
+        font-size: 16px;
+        font-weight: 500;
+        margin-bottom: 0px;
+    }
+    #product-tips{
+        text-align: center;
+    }
+    .collection-bg{
+        padding: 100px 0px 60px 0px;
+    }
+    .about-content > p > br{
+        display: none;
+    }
+    .asset-img{
+        margin-bottom: 10px;
+    }
+    .marketplace-bg{
+        padding-top: 50px;
+    }
+    .about-bordar{
+        padding: 15px;
+        text-align: center;
+    }
+    .container-border{
+        padding: 15px;
+        text-align: center;
+    }
+    .our-features-head > h3 > br{
+        display: none;
+    }
+    .faq-child1 > p{
+        font-size: 18px;
+    }
+    .mar-b > p {
+        font-size: 18px;
+    }
+    .faq-child1 > p{
+        font-size: 18px;
+    }
+    .faq-child2 > p{
+        font-size: 18px;
+    }
+    .our-roadmap-p-text {
+        font-size: 13px! important;
+    }
+    .faq-child1 > p > span{
+        font-size: 14px;
+    }
+    .marketplacechild2 > a {
+        top: 0px;
+    }
+    /* my-responsive-open */
+    .ecosystem-heading > h3 {
+        font-size: 24px;
+        text-align: center;
+    }
+    .eco-l-cont > h3 {
+        font-family: 'eth-black', sans-serif;
+        font-weight: 900;
+        color: #fff;
+        font-size: 24px;
+    }
+    .ecosystembg {
+        padding: 60px 0px 40px 0px;
+    }
+     .game-heading > h3 {
+        font-size: 24px;
+        text-align: center;
+    }
+    
+    .game-l-cont > h3 {
+        font-size: 24px;
+    }
+    .game-center {
+        margin-top: 20px;
+    }
+    .game-right {
+        margin-top: 20px;
+    }
+    .eco-right {
+        margin-top: 20px;
+    }
+    .marlinpartner-heading > h3 {
+        font-size: 24px;
+        text-align: center;
+    }
+    .part-logo > a > img {
+        width: 80px;
+    }
+    .partnerlogoimg > li {
+        margin-top: 20px;
+    }
+    .marlin-p-img > img {
+        width: 60%;
+        margin-top: 30px;
+    }
+    .marlin-p-img {
+        text-align: center;
+    }
+    
+    /* my-responsive-closed */
+    .bnr-child-bg1{
+        display: inherit;
+    }
+    .wrp-social-media{
+        display: inherit;
+        text-align: center;
+    }
+    .social-list{
+        justify-content: center;
+        margin-top: 15px;
+    }
+    .bnr-img > img{
+        width: 100%;
+        margin-top: 40px;
+    }
+    .mar-b {
+        margin-bottom: 0px;
+        text-align: center;
+    }
+    .mrt-r2 {
+        margin-top: 0px;
+    }
+ 
+  
+    .mobile-unloackbtn{
+        display: none;
+    }
+    .wrp-stake-head{
+        display: inherit;
+    }
+    .about-content > h3,.our-features-head > h3,.marketplace-child1 > h3,.stake-head > h3,.head-m-features > h3{
+        font-size: 24px;
+    }
+   
+    .head-m-features > h3{
+        text-align: center;
+    }
+    .about-content > a{
+        margin-top: 30px;
+    }
+    .faq-wrp{
+        display: inherit;
+    }
+    .faq-child1,.faq-child2{
+        width: 100%;
+    }
+    .total-value > h4{
+        font-size: 13px;
+    }
+    .total-value{
+        text-align: center;
+    }
+    .total-value > h4 > span{
+        left: 0;
+    }
+
+    #banner-section{
+        padding: 20px;
+    }
+    .react-multi-carousel-track > li > div > a{
+        margin-right: 0px;
+        width: 100%;
+    }
+    .slide-img{
+        padding-left: 0px;
+    }
+    .banner-contents > h3{
+        font-size: 42px;
+        margin-top: 0px;
+    }
+    .banner-contents{
+        margin-top: 50px;
+    }
+    .bnr-btn > a{
+        font-size: 13px;
+    }
+    .bnr-btn2 > a{
+        font-size: 13px;
+        color: #cfc7dd;
+    }
+    #banner-section {
+        height: auto;
+    }
+    .banner-contents > span{
+        font-size: 24px;
+    }
+    /* pools2 page css open here */
+    .wrp-token-ticket{
+        display: inherit;
+    }
+    .wrp-t-child1{
+        text-align: center;
+    }
+    .wrp-p-c{
+        text-align: center;
+    }
+    .undead-head-wrp{
+        display: inherit;
+        text-align: center;
+        margin-top: 0px;
+    }
+    .undead-head-child1 > h3 {
+        font-size: 30px;
+    }
+    .wrp-p-c > p{
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    .vesting-wrp{
+        display: inherit;
+        margin-top: 0px;
+    }
+    
+    .vesting-child1{
+        width: 100%;
+        margin-top: 15px;
+    }
+    .pools2-content{
+        text-align: center;
+    }
+    .text-rights {
+        text-align: center;
+        margin-top: 25px;
+    }
+    .undead-c-child2 > h3 {
+        font-size: 20px;
+    }
+    .social-listp > li > a > img {
+        width: 18px;
+    }
+    .your-list{
+        margin: 0px;
+        padding: 0px;
+        list-style: none;
+    }
+    
+    /* pools page css closed here */
+}
+@media(max-width: 767px){
+    .tabs4{
+        margin-top: 40px;
+        margin-bottom: 20px;
+    }
+    .head-banner-wrp{
+        display: inherit;
+    }
+    .wrp-cleaim-box{
+        display: inherit;
+    }
+    .wrp-connects{
+        display: inherit;
+    }
+    .fight-box > a > img{
+        width: 100%;
+    }
+    .wallet-content{
+        width: 100%;
+    }
+    .main-box{
+        padding: 0px 0px;
+    }
+    .claim-box{
+        margin-right: 0px;
+        margin-top: 15px;
+    }
+    .bnb-img{
+        width: 100%;
+    }
+    .buy-btn{
+        text-align: center;
+    }
+    .connect-img {
+        text-align: center;
+        margin-top: 15px;
+    }
+    .epichlist-child > p{
+        font-size: 14px;
+    }
+    .recuit-wrp {
+        display: inherit;
+        padding: 0px;
+        text-align: center;
+    }
+    .recuit-btn{
+        margin-bottom: 20px;
+    }
+    .recuit-btn > a {
+        display: block;
+    }
+    .back-p2 > a > p{
+        font-size: 15px;
+    }
+    .back-p2 > a > p > span > img{
+        width: 20px;
+    }
+    .slide-wrps{
+        width: 100%;
+    }
+    .slide-wrps {
+        padding: 30px 0px 50px 0px;
+    }
+    .fight-bottom-c > h4{
+        font-size: 18px;
+    }
+}
+@media(max-width: 640px){
+    
+    #create-sec{
+        padding-top: 110px;
+    }
+    .marlin-head-btn{
+        top: -6px;
+        left: 0px;
+    }
+    .file-sec {
+        padding: 40px 0px;
+    }
+    .upload-head > h4{
+        font-size: 18px;
+    }
+    .sales-l-c-child > h4{
+        font-size: 16px;
+    }
+    .container-border1{
+        padding: 15px;
+    }
+    .copyaddress-wrap{
+        margin-top: 0px;
+    }
+    .social-icon{
+        margin-top: 15px;
+    }
+    .img-bison{
+        margin: auto;
+    }
+    .banner-contents > p{
+        font-size: 15px;
+    }
+    .bnr-img > img{
+        margin-top: 0px;
+    }
+    .main-container2{
+        padding: 0px;
+    }
+    #about-section,#our-features-sec,.bg-stake{
+        padding: 40px 0px;
+    }
+    #faq-section {
+        padding: 80px 0px;
+    }
+    #pool-section {
+        padding: 120px 0px 50px 0px;
+    }
+    .tabs3{
+        margin-top: 0px;
+    }
+    .head-faq > h3{
+        font-size: 24px;
+    }
+    .block__items2 > .block__title{
+        font-weight: 600;
+        font-size: 13px;
+    }
+    .block__items2{
+        padding: 20px 10px! important;
+    }
+    #marketplace-sec-home{
+        padding: 50px 0px 20px 0px;
+    }
+    .limit-box {
+        height: 200px;
+    }
+    #banner-section{
+        height: auto;
+    }
+    .about-img > img {
+        width: 100%;
+    }
+    .main-container {
+        padding: 0px 6px;
+    }
+    .product-list {
+        margin-top: 20px;
+        padding: 30px 20px 10px 20px;
+    }
+    .tabs6 > li{
+        width: 100%;
+      }
+      .tabs6 a {
+        padding: 10px 14px;
+    }
+    .tabs6 a.active{
+        width: 100%;
+    }
+      .product-name > a{
+          font-size: 13px;
+      }
+      .view-item > a{
+          font-size: 10px;
+      }
+      .view-btn > a{
+        font-size: 10px;
+    }
+    .busd{
+        font-size: 14px;
+    }
+    .ect-box > a{
+        font-size: 14px;
+    }
+    .ect-box{
+        margin-top: -5px;
+    }
+    
+
+}
+@media(max-width: 580px){
+    .burger-area {
+        margin-top: -42px;
+    }
+    .marketplace-sec2 {
+        padding: 40px 0px 10px 0px;
+    }
+    .head-marketchild2 > h3{
+        font-size: 20px;
+    }
+    .create-head > h4 {
+        font-size: 22px;
+    }
+    .craete-c-img {
+        margin: 25px 0px;
+    }
+    .wrp-create-head{
+        height: 100px;
+    }
+    .collection-b{
+        margin-top: 25px;
+    }
+    .view-btn > a{
+        margin-top: 10px;
+    }
+    .visit-website {
+        margin-left: 0px;
+    }
+    .featured-list > li {
+        width: 100%;
+        height: 185px;
+    }
+   
+    .loadmore-btn {
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    .featuredlist-img {
+        width: 100px;
+        height: 90px;
+    }
+    .create-head {
+        height: 100px;
+    }
+    .create-head > h4{
+        line-height: 100px;
+    }
+   
+    /* changes */
+
+    .btn-center{
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .btn-center a img {
+        width: 71%;
+        margin-left: -13px;
+    }
+    .btn-center1{
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .btn-center1 a img{
+        width: 230px;
+        height: 395px;
+        margin-right: 25px;
+    }
+    .btn-center2{
+        text-align: center;
+    }
+    .btn-center2 a img{
+        width: 230px;
+        height: 395px;
+        margin-left: -1px;
+    }
+
+    /* changes */
+    .bannermain-bg{
+        background-size: cover;
+    }
+    .bnb-left > h3{
+        font-family: 'Poppins', sans-serif;
+        font-size: 18px;
+    }
+    .wrp-faq {
+        padding: 20px;
+    }
+    .main-roadmapbox {
+        padding: 20px 20px;
+    }
+    #wingame-sec{
+        padding-bottom: 40px;
+    }
+    .game-head > h3 {
+        padding-top: 10px;
+    }
+    .ido-box > h3 {
+        font-size: 16px;
+    }
+    .tokenboxc > h3 {
+        font-size: 16px;
+    }
+  
+    .contract-adr > h3 {
+        font-size: 20px;
+        margin-top: 25px;
+    }
+    .wrp-wizgame {
+        padding: 0px;
+    }
+    .contract-adr > input {
+        width: 100%;
+        font-size: 12px;
+        text-align: center;
+    }
+   
+    .contract-adr > button {
+        padding: 6px 20px;
+        font-size: 14px;
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+    
+    .block__title {
+        font-size: 13px;
+    }
+    .block__text {
+        font-size: 12px;
+    }
+    #tokenomic-sec {
+        padding: 40px 0px 40px 0px;
+    }
+    .tokenhead1,.tokenhead3{
+        display: none;
+    }
+    .wrp-tokenhead{
+        display: inherit;
+    }
+    .tokenhead2, .head-roadmap, .partner-head, .head-faq,.head-features,.game-head,.pools-head,.marketplace-head {
+        width: 100%;
+        background-size: 100% 100%;
+    }
+    h3 {
+        font-size: 24px;
+    }
+    .tokenhead2 > h3 {
+        margin-top: 0px;
+        padding-top: 10px;
+    }
+    .amount-box > p {
+        font-size: 18px;
+    }
+    .amount-box {
+        padding: 30px 0px;
+     
+    }
+    #partner-sec{
+        padding-bottom: 40px;
+        background-size: cover;
+    }
+    #features-sec {
+        padding-bottom: 40px;
+    }
+    .head-roadmap > h3 {
+        padding-top: 10px;
+    }
+    .tokenomic-c > h3 {
+        font-size: 18px;
+    }
+    .automated-wrp {
+        padding: 0px 0px;
+    }
+    .automated-wrp > h3{
+        font-size: 18px;
+    }
+    .wrp-tokengrt-list {
+        display: inherit;
+    }
+    .head-faq > h3 {
+        padding-top: 10px;
+    }
+   
+ 
+    .partner-head > h3 {
+        padding-top: 10px;
+    }
+    .head-features > h3 {
+        padding-top: 10px;
+    }
+    
+    .wrp-partner-bgimg {
+        background-image: url(../images/mobiler3.png);
+        background-size: 100% 100%;
+        height: auto;
+    }
+    .wrp-autobox {
+        padding: 95px 50px 95px 50px;
+    }
+    .autocircle-box{
+        padding: 15px 0px;
+    }
+    .wrp-autobox{
+        display: inherit;
+    }
+    .auto-box {
+        width: 200px;
+        margin-left: 0px;
+        margin: auto;
+        margin-top: 30px;
+    }
+    .autocircle-box > img {
+        width: 80px;
+    }
+    .wrp-wizgame{
+        background-image: url(../images/mobiler.png);
+        background-size: 100% 100%;
+        padding-bottom: 25px;
+        padding-top: 25px;
+        height: auto;
+    }
+    .wizgame-w {
+        width: 100%;
+        margin: auto;
+    }
+    .flat-box{
+        margin-top: 20px;
+    }
+
+    /*----ARCANE----*/
+    #banner-section {
+        height: auto;
+    }
+    .banner-pool > h3 {
+        font-size: 24px;
+    }
+    .nft-content{
+        width: 100%;
+        margin-top: 40px;
+    }
+    .stake-head {
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .inactive-box > h4{
+        font-size: 16px;
+        padding: 5px 10px! important;
+        margin-left: 0px! important;
+    }
+   
+    .bg-footer {
+        padding: 35px 0px;
+    }
+    .faq-singular {
+        padding: 0 20px 0 0px;
+    }
+    .tabs3 a{
+        font-size: 14px;
+    }
+    .sqrBx{
+        margin-left: 0px;
+        font-size: 14px;
+    }
+    .main-bg{
+        background-size: cover;
+    }
+    .logo-a > img {
+        width: 160px;
+        margin-left: 0px;
+        right: 0;
+        left: 0;
+        position: absolute;
+        top: 140px;
+        margin: auto;
+    }
+    .top-header{
+        padding: 35px 20px 0px 20px;
+    }
+  
+    .wrp-staked > button{
+        margin-bottom: 5px;
+
+    }
+    .top-menu{
+        display: none;
+    }
+    .banner-pool > p{
+        font-size: 20px;
+        
+    }
+    .wrp-social-media{
+        padding: 0px;
+    }
+    .staked > label {
+        font-size: 20px;
+        vertical-align: bottom;
+    }
+    .ganaba > label{
+        font-size: 14px;
+    }
+    .main-wrp-staked{
+        justify-content: center;
+    }
+    .staked > input{
+        height: 18px;
+        width: 18px;
+    }
+    
+    .ganaba > input{
+        height: 18px;
+        width: 18px;
+    }
+    .banner-pool > p > br{
+        display: none;
+    }
+    .second-area {
+        padding: 0px 0px;
+    }
+    
+    .banner-top-sec{
+        display: inherit;
+    }
+    .banner-pool {
+        padding: 0px;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .banner-pool > p{
+        font-size: 14px;
+    }
+    .banner-pool > p > br{
+        display: none;
+    }
+    .input-s-box{
+        width: 170px;
+        display: flex;
+    }
+    .input-s-box > input{
+        width: 100%;
+    }
+    .input-s-box > span > img {
+        margin-top: 10px;
+    }
+    .inactive-box {
+        margin-top: 15px;
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    .tabs{
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    .img-bison > img {
+        width: 100%;
+        vertical-align: middle;
+    }
+   
+    .img-bison-c > img {
+        width: 12px;
+        margin: 8px 15px;
+    }
+    .token > h3{
+        font-size: 15px;
+    }
+    .wrp-bison {
+        width: 630px;
+    }
+
+    .apr-c {
+        width: 120px;
+    }
+    .arp-list2 {
+        width: auto;
+    }
+    .arp-list2{
+        margin-right: 0px;
+    }
+    .wrp-staked {
+        margin-left: 20px;
+    }
+    .bnr-btn > a {
+        padding: 8px 28px;
+
+    }
+    .banner-content > h3 {
+        font-size: 26px;
+        margin-top: 15px;
+    }
+    p {
+        font-size: 13px;
+    }
+    /* slide css open here */
+    
+    /* slide css closed here */
+
+    /* pools page css open here */
+    .undead-c-child2 > h3 {
+        font-size: 15px;
+    }
+    
+    .collect-content > h3{
+        font-size: 18px;
+    }
+    .collect-content > p{
+        font-size: 14px;
+    }
+    .shadow-div{
+        height: 340px;
+    }
+
+    .ect-box > h3{
+        font-size: 18px;
+    }
+    .archer-img{
+        height: auto;
+    }
+    .deposits-head > h3 {
+        font-size: 18px;
+    }
+    .tires-child1 > p{
+        font-size: 13px;
+    }
+    .archer-c-child1 > p > span{
+        font-size: 20px;
+    }
+    .stake-btns > button{
+        font-size: 14px;
+    }
+    .tires-child1 > p > img {
+        width: 40px;
+        margin-right: 5px;
+    }
+    .knight-box > h3{
+        font-size: 20px;
+    }
+    .your-balance-box > p > span{
+        font-size: 24px;
+    }
+    .your-balance-box{
+        padding: 25px 25px;
+    }
+    .archer-img > h3{
+        font-size: 24px;
+    }
+    .tires-b{
+        padding: 20px 20px;
+    }
+    .tires-b > h3{
+        font-size: 18px;
+    }
+    .wrp-t-child1 > img{
+        width: 200px;
+    }
+    .undead-head-child1 > h3 {
+        font-size: 24px;
+    }
+    .balances-child1 > p > span{
+        font-size: 22px;
+    }
+    .maxusd-child1 > span{
+        font-size: 13px;
+    }
+    .maxusd-child2 > button{
+        width: 75px;
+        font-size: 14px;
+    }
+    .head-limit > h3 {
+        font-size: 24px;
+    }
+    .limit-box{
+        height: auto;
+        margin-top: 20px;
+    }
+    .limit-c > p,.limit-c > h3{
+        font-size: 16px;
+    }
+    .wizardinfobg {
+        background-color: #21283E;
+        padding: 30px 0px 40px 0px;
+    }
+    .maxusd-child1 > input{
+        font-size: 13px;
+    }
+    .wrp-contribute{
+        margin-top: 20px;
+    }
+    .progress-info-c{
+        margin-top: 15px;
+    }
+    .wrp-p-c > p{
+        margin-top: 15px;
+    }
+    .vesting-child1{
+        text-align: center;
+    }
+    .sale-price-box{
+        text-align: center;
+    }
+    .contribute-child1 > p > span{
+        font-size: 22px;
+    }
+    .undead-head-child1 > p{
+        margin-top: 15px;
+    }
+    
+    /* pools page css closed here */
+
+    .marketplace-sec2 {
+        padding: 40px 0px 10px 0px;
+    }
+  
+    .create-head > h4 {
+        font-size: 22px;
+    }
+    .craete-c-img {
+        margin: 25px 0px;
+    }
+    .wrp-create-head{
+        height: 100px;
+    }
+    .collection-b{
+        margin-top: 25px;
+    }
+    .view-btn > a{
+        margin-top: 10px;
+    }
+    .visit-website {
+        margin-left: 0px;
+    }
+    .featured-list > li {
+        width: 100%;
+        height: 185px;
+    }
+    .top-weekly-sec {
+        padding: 0px 0px 0px 0px;
+    }
+    .loadmore-btn {
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    .featuredlist-img {
+        width: 100px;
+        height: 90px;
+    }
+    .create-head {
+        height: 100px;
+    }
+    .create-head > h4{
+        line-height: 100px;
+    }
+
+    /* changes */
+
+    .btn-center{
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .btn-center a img {
+        width: 71%;
+        margin-left: -13px;
+    }
+    .btn-center1{
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .btn-center1 a img{
+        width: 230px;
+        height: 395px;
+        margin-right: 25px;
+    }
+    .btn-center2{
+        text-align: center;
+    }
+    .btn-center2 a img{
+        width: 230px;
+        height: 395px;
+        margin-left: -1px;
+    }
+
+    /* changes */
+    .bannermain-bg{
+        background-size: cover;
+    }
+    .bnb-left > h3{
+        font-family: 'Poppins', sans-serif;
+        font-size: 18px;
+    }
+    .wrp-faq {
+        padding: 20px;
+    }
+    .main-roadmapbox {
+        padding: 20px 20px;
+    }
+    #wingame-sec{
+        padding-bottom: 40px;
+    }
+    .game-head > h3 {
+        padding-top: 10px;
+    }
+    .ido-box > h3 {
+        font-size: 16px;
+    }
+    .tokenboxc > h3 {
+        font-size: 16px;
+    }
+    .logo-box > a > img {
+        width: 90px;
+    }
+    .contract-adr > h3 {
+        font-size: 20px;
+        margin-top: 25px;
+    }
+    .wrp-wizgame {
+        padding: 0px;
+    }
+    .contract-adr > input {
+        width: 100%;
+        font-size: 12px;
+        text-align: center;
+    }
+   
+ 
+    .contract-adr > button {
+        padding: 6px 20px;
+        font-size: 14px;
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+
+    .block__text {
+        font-size: 13px;
+    }
+    #tokenomic-sec {
+        padding: 40px 0px 40px 0px;
+    }
+    .tokenhead1,.tokenhead3{
+        display: none;
+    }
+    .wrp-tokenhead{
+        display: inherit;
+    }
+    .tokenhead2, .head-roadmap, .partner-head, .head-faq,.head-features,.game-head,.pools-head,.marketplace-head {
+        width: 100%;
+        background-size: 100% 100%;
+        text-align: center;
+    }
+    h3 {
+        font-size: 24px;
+    }
+    .tokenhead2 > h3 {
+        margin-top: 0px;
+        padding-top: 10px;
+    }
+    .amount-box > p {
+        font-size: 18px;
+    }
+    .amount-box {
+        padding: 30px 0px;
+     
+    }
+    #partner-sec{
+        padding-bottom: 40px;
+        background-size: cover;
+    }
+    #features-sec {
+        padding-bottom: 40px;
+    }
+    .head-roadmap > h3 {
+        padding-top: 10px;
+    }
+    .tokenomic-c > h3 {
+        font-size: 18px;
+    }
+    .automated-wrp {
+        padding: 0px 0px;
+    }
+    .automated-wrp > h3{
+        font-size: 18px;
+    }
+    .wrp-tokengrt-list {
+        display: inherit;
+    }
+    .head-faq > h3 {
+        padding-top: 10px;
+    }
+
+    
+    .partner-head > h3 {
+        padding-top: 10px;
+    }
+    .head-features > h3 {
+        padding-top: 10px;
+    }
+    
+    .wrp-partner-bgimg {
+        background-image: url(../images/mobiler3.png);
+        background-size: 100% 100%;
+        height: auto;
+    }
+    .wrp-autobox {
+        padding: 95px 50px 95px 50px;
+    }
+    .autocircle-box{
+        padding: 15px 0px;
+    }
+    .wrp-autobox{
+        display: inherit;
+    }
+    .auto-box {
+        width: 200px;
+        margin-left: 0px;
+        margin: auto;
+        margin-top: 30px;
+    }
+    .autocircle-box > img {
+        width: 80px;
+    }
+    .wrp-wizgame{
+        background-image: url(../images/mobiler.png);
+        background-size: 100% 100%;
+        padding-bottom: 25px;
+        padding-top: 25px;
+        height: auto;
+    }
+    .wizgame-w {
+        width: 100%;
+        margin: auto;
+    }
+    .flat-box{
+        margin-top: 20px;
+    }
+
+    .part-logo{
+        margin-right: 0px;
+    }
+    .banner-pool > h3 {
+        font-size: 24px;
+    }
+    .nft-content{
+        width: 100%;
+        margin-top: 40px;
+    }
+    .stake-head {
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    .inactive-box > h4{
+        font-size: 16px;
+        padding: 5px 10px! important;
+        margin-left: 0px! important;
+    }
+    .burgers > img {
+        width: 36px;
+    }
+    .bg-footer {
+        padding: 35px 0px;
+    }
+    .faq-singular {
+        padding: 0 20px 0 0px;
+    }
+    .tabs3 a{
+        font-size: 14px;
+    }
+    .sqrBx{
+        margin-left: 0px;
+        font-size: 14px;
+    }
+    .main-bg{
+        background-size: cover;
+    }
+    .logo-a > img {
+        width: 160px;
+        margin-left: 0px;
+        right: 0;
+        left: 0;
+        position: absolute;
+        top: 140px;
+        margin: auto;
+    }
+    .top-header{
+        padding: 35px 20px 0px 20px;
+    }
+  
+    .wrp-staked > button{
+        margin-bottom: 5px;
+
+    }
+    .top-menu{
+        display: none;
+    }
+  
+    .banner-pool > p{
+        font-size: 20px;
+        
+    }
+
+    .staked > label {
+        font-size: 20px;
+        vertical-align: bottom;
+    }
+    .ganaba > label{
+        font-size: 14px;
+    }
+    .main-wrp-staked{
+        justify-content: center;
+    }
+    .staked > input{
+        height: 18px;
+        width: 18px;
+    }
+    
+    .ganaba > input{
+        height: 18px;
+        width: 18px;
+    }
+    .banner-pool > p > br{
+        display: none;
+    }
+    .second-area {
+        padding: 0px 0px;
+    }
+    
+    .banner-top-sec{
+        display: inherit;
+    }
+    .banner-pool {
+        padding: 0px;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .banner-pool > p{
+        font-size: 14px;
+    }
+    .banner-pool > p > br{
+        display: none;
+    }
+    .input-s-box{
+        width: 170px;
+        display: flex;
+    }
+    .input-s-box > input{
+        width: 100%;
+    }
+    .input-s-box > span > img {
+        margin-top: 10px;
+    }
+    .inactive-box {
+        margin-top: 15px;
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    .tabs{
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+
+    .apr{
+        margin-top: 10px;
+    }
+    .token1{
+        margin-top: 10px;
+    }
+ 
+    .img-bison-c > img {
+        width: 12px;
+        margin: 8px 15px;
+    }
+    .token > h3{
+        font-size: 15px;
+    }
+    .wrp-bison {
+        width: 630px;
+    }
+
+    .apr-c {
+        width: 120px;
+    }
+    .arp-list2 {
+        width: auto;
+    }
+    .arp-list2{
+        margin-right: 0px;
+    }
+    .wrp-staked {
+        margin-left: 20px;
+    }
+
+    .banner-content > h3 {
+        font-size: 26px;
+        margin-top: 15px;
+    }
+    p {
+        font-size: 13px;
+    }
+    .ecosystem-main-wrap {
+        border: 2px solid #fff;
+        margin-top: 45px;
+    }
+ 
+    
+    
+    .wrp-social-media{
+        padding-top: 85px;
+    }
+    .about-content {
+        margin-top: 0px;
+    }
+    .features-sec {
+        padding: 50px 0px;
+    }
+    
+    .social-list > li {
+        margin-left: 6px;
+    }
+    .social-cotent > p {
+        font-size: 9px;
+        padding-top: 15px;
+    }
+    .social-list {
+        justify-content: center;
+        margin-top: -30px;
+    }
+    .menu-list-wrp{
+        padding: 10px 20px 30px 20px;
+    }
+    .social-list > li > a {
+        width: 25px;
+        height: 25px;
+        line-height: 25px;
+        
+    }
+    .socila-flex {
+        display: inherit;
+        justify-content: center;
+        margin-top: -25px;
+        margin-bottom: 25px;
+    }
+    .socila-list-text {
+        text-align: center! important;
+        padding-top: 20px;
+        font-size: 12px;
+    }
+    .socila-list > li {
+       padding-left: 13px;
+    }
+    .socila-list > li > a {
+        width: 21px;
+        height: 21px;
+        line-height: 21px;
+        border-radius: 100%;
+        text-align: center;
+        
+    }
+    .discord-icomimg{
+        width: 25px;
+        height: 25px;
+        line-height: 25px;
+    }
+    .socialcontainer {
+        margin: auto;
+    }
+    #product-sec {
+        padding-top: 100px;
+    }
+    .roadmap_character-img {
+        display: none;
+    } 
+   
+}
+
+
+
+
+
+
